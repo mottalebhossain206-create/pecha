@@ -1,6 +1,6 @@
 Robots.txt for Pecha Documentation Site
-​Built for https://www.google.com/search?q=https://mahmudul626.github.io/pecha/
+​Built for https://www.google.com/search?q=https://mottalebhossain206-create.github.io/pecha/
 ​User-agent: *
 Allow: /
 ​Sitemaps
-​Sitemap: https://www.google.com/search?q=https://mahmudul626.github.io/pecha/sitemap.xml
+​Sitemap: https://www.google.com/search?q=https://mottalebhossain206-create.github.io/pecha/sitemap.xml
